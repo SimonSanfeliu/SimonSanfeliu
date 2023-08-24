@@ -2,8 +2,6 @@
 <h3 align="center">I've got a Bachelor's degree in Astronomy and another one in Electrical Engeneering, specialized in Computational Intelligence and Data Science. Currently, I'm applying to a Master's degree in Data Science whilst also working on e-Contact, a company that makes call center software.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SimonSanfeliu&label=Profile%20views&color=0e75b6&style=flat" alt="SimonSanfeliu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SimonSanfeliu&theme=" alt="SimonSanfeliu" /></a> </p>
-
 - 🔭 I’m currently working on **different college and work related projects.**
 - 👯 I’m looking to collaborate on **AI projects, especially in NLP and Computer Vision.**
 - 🌱 I’m currently learning **ElasticSearch, Celery/Flask, Git, Docker and Postman.**
@@ -45,6 +43,5 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SimonSanfeliu&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SimonSanfeliu&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SimonSanfeliu&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SimonSanfeliu&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SimonSanfeliu&theme=2077" height="180em" />
 </div>
