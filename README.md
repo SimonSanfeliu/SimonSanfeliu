@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my profile👋, I'm Simón Sanfeliú</h1>
-<h3 align="center">I've got a Bachelor's degree in Astronomy and another one in Electrical Engeneering, specialized in Computational Intelligence and Data Science. Currently, I'm applying to a Master's degree in Data Science whilst also working on e-Contact, a company that makes call center software.</h3>
+<h3 align="center">I've got a Bachelor's degree in Astronomy and another one in Electrical Engeneering, specialized in Computational Intelligence and Data Science. Currently, I'm a student at the Master of Data Science program at Universidad de Chile whilst also working on e-Contact, a company that makes call center software.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SimonSanfeliu&label=Profile%20views&color=0e75b6&style=flat" alt="SimonSanfeliu" /> </p>
 
 - 🔭 I’m currently working on **different college and work related projects.**
